@@ -1,0 +1,27 @@
+body{
+    background-color: plum;
+}
+#identificador{
+    color: forestgreen;
+    text-align: center;
+    font-size: 30px;
+    margin: 50px;
+}
+
+.classe{
+    background-color: blue;
+    color: green;
+    text-align: right;
+    padding: 30px;
+    font-size: 30px;
+}
+.texto{
+color: aquamarine;
+    line-height: 30px;
+    text-align: justify;
+    text-transform: uppercase;
+    font-weight: bold;
+    border: 1px solid purple;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
